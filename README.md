@@ -25,4 +25,4 @@ Core Competencies: Data Cleaning, Data Modeling, KPI Calculation, Dashboard Desi
 
 🌐LinkedIn: https://www.linkedin.com/in/manishbarman06/
 📧Email: manish.barman1001@gmail.com
-💼Resume: [Link to Portfolio/Resume]
+💼Resume: https://drive.google.com/file/d/1oMxMppCVoBnrjQ517pYQ4NEJZzTRIdtp/view?usp=sharing
