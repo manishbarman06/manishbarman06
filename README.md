@@ -1,16 +1,28 @@
-## Hi there 👋
+👋 Hi there, I'm Manish Barman 
 
-<!--
-**manishbarman06/manishbarman06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a final-year BCA student with a strong passion for transforming raw data into actionable business insights.
+Currently looking for a Data Analytics Internship to apply my analytical skills, solve complex data problems, and gain hands-on corporate experience.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Tech Stack & Skills
+
+Data Analysis & Processing: Python (`pandas`, `numpy`), SQL, MS Excel
+Data Visualization & Dashboards: Power BI, Matplotlib, Seaborn
+Core Competencies: Data Cleaning, Data Modeling, KPI Calculation, Dashboard Design
+
+---
+
+📌 What I Do
+
+🧹 Data Cleaning & Wrangling: Structuring messy data for reliable analysis.
+📊 Interactive Dashboards: Building multi-page, executive-ready Power BI & Excel reports.
+🔍 Exploratory Data Analysis: Uncovering patterns, trends, and business metrics using Python & SQL.
+
+---
+
+ 📫 Connect with Me
+
+🌐LinkedIn: https://www.linkedin.com/in/manishbarman06/
+📧Email: manish.barman1001@gmail.com
+💼Resume: [Link to Portfolio/Resume]
